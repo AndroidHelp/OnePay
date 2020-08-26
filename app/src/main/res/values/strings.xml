@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OnePay</string>
+    <string name="label_one_pay">OnePay Balance</string>
+
+    <string name="format_dollar">$%.2f</string>
+    <string name="action_add_money">Add Money</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is not available on this phone.</string>
+    <string name="googlepay_status_checking" translatable="false">Checking if Google Pay is available...</string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for %s!</string>
+    <string name="hint_amount">Enter Amount</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_from_gpay">Using G Pay</string>
+    <string name="action_hide_add_money">Hide Add Money</string>
+
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
+    <string name="label_recent_transaction">Recent Transaction</string>
+    <string name="message_success_transaction">Amount Successfully Added</string>
+    <string name="message_failed_transaction">Amount Add to wallet has been failed.</string>
+    <string name="formatted_amount_add">+ $%.2f</string>
+    <string name="formatted_amount_failed"> $%.2f</string>
+</resources>
